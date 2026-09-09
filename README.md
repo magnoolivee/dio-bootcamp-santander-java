@@ -44,7 +44,7 @@ graph TD;
 
 | Nome             | LinkedIn                              |
 |------------------|---------------------------------------|
-| Magno Pereira    |      |
+| Magno de oliveira    |      |
 |    |     |
 |    |    |
 |     |      |
@@ -53,7 +53,7 @@ graph TD;
 
 | Nome             | LinkedIn                              |
 |------------------|---------------------------------------|
-| Maicon Rodrigues |   |
+| Maicon Rodrigues | [https://www.linkedin.com/in/magnoolivee](https://www.linkedin.com/in/magnoolivee/)  |
 |    |      |
 |     |       |
 |   |   |
